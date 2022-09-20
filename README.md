@@ -82,14 +82,14 @@ print(f'{name} is a {commitment} student in our Design and Technology class. {ge
 ### Example of the results from the code: <br> 
 
 This is a code to help you with student comments! <br> 
-What is the student's name? Veshaya <br> 
-Describe the student's commitment - begin with the corresponding article (a/an): an amazing <br> 
-What was the student's twine story? Murder mystery <br> 
-Would you like to use she, he or they? she <br> 
-Would you like to use her, his or theirs? her <br> 
-Would you like to use herself, himself or themself? herself <br> 
-What is the student's project mark? 90 <br> 
-Veshaya is an amazing student in our Design and Technology class. She always greets me enthusiastically and endeavours to get on with the task at hand independently. Veshaya achieved a most pleasing result for her interactive Murder mystery Twine story. She is applying herself well in developing an innovative solution for a client with limited mobility. Veshaya is demonstrating initiative and curiosity in completing this project and I look forward to her final product pitch. Keep up the good work, Veshaya! <br> 
+What is the student's name? _Veshaya_ <br> 
+Describe the student's commitment - begin with the corresponding article (a/an): _an amazing_ <br> 
+What was the student's twine story? _Murder mystery_ <br> 
+Would you like to use she, he or they? _she_ <br> 
+Would you like to use her, his or theirs? _her_ <br> 
+Would you like to use herself, himself or themself? _herself_ <br> 
+What is the student's project mark? _90_ <br> 
+_Veshaya is an amazing student in our Design and Technology class. She always greets me enthusiastically and endeavours to get on with the task at hand independently. Veshaya achieved a most pleasing result for her interactive Murder mystery Twine story. She is applying herself well in developing an innovative solution for a client with limited mobility. Veshaya is demonstrating initiative and curiosity in completing this project and I look forward to her final product pitch. Keep up the good work, Veshaya!_ <br> 
 
 #### You can use the F5 key on IDLE to run the code. 
 #### This code was entirely written by Veshaya Pillay with some help from Dr. Muller. <br> 
