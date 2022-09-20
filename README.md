@@ -91,5 +91,6 @@ Would you like to use herself, himself or themself? herself <br>
 What is the student's project mark? 90 <br> 
 Veshaya is an amazing student in our Design and Technology class. She always greets me enthusiastically and endeavours to get on with the task at hand independently. Veshaya achieved a most pleasing result for her interactive Murder mystery Twine story. She is applying herself well in developing an innovative solution for a client with limited mobility. Veshaya is demonstrating initiative and curiosity in completing this project and I look forward to her final product pitch. Keep up the good work, Veshaya! <br> 
 
-#### This code was entirely written by Veshaya Pillay with some help from Dr. Muller <br> 
-### Thank you
+#### You can use the F5 key on IDLE to run the code. 
+#### This code was entirely written by Veshaya Pillay with some help from Dr. Muller. <br> 
+### Thank you! 
